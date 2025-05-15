@@ -3,20 +3,18 @@
  ### [Video Demonstration](https://www.linkedin.com/posts/sadique-rahman-aa2951209_androidabrapp-vuforia-ar-activity-7281670848128675841-iZtL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADT_3doBFsfXz5yrVPeGirVB95umWAn4Cr0)
 
 <h2>Description</h2>
-The Interactive VR Museum Tour app is an immersive Android application that leverages Unity and Vuforia SDK to provide users with an engaging virtual museum experience. It features a teleportation system allowing seamless navigation between designated exhibits, a Gaze Pointer for intuitive interactions with objects, and an integrated virtual video player for watching informative 360° videos related to each exhibit. The app employs efficient asset management and dynamic loading to ensure smooth performance on mobile devices, creating a captivating educational tool that enhances user engagement and learning in a virtual environment.
-<br />
+The Interactive Virtual Car Garage is an augmented reality (AR) simulation designed for Android devices, created using the Unity engine and Vuforia SDK. This application allows users to explore and customize a range of vehicles in a virtual garage environment. With intuitive button controls, users can interact with the cars, triggering minor animations that enhance the immersive experience of vehicle maintenance and customization.
+<br/>
 
 
 <h2>Technologies Used</h2>
 
 - <b>Unity :</b>  For 3D environment creation and interaction mechanics.
-- <b>C# :</b>  For scripting game logic and interactions. 
-- <b>DiskpartVuforia SDK :</b>  For augmented reality features and object recognition.
+- <b>Vuforia SDK :</b>  For augmented reality features and object recognition.
 
 <h2>Environments Used </h2>
 
-- <b>Unity</b> (2021.3.31f1)
-- <b>VS Code</b> (C#)
+- <b>Unity</b> (2019.3.14f1)
 
 <h2>Program walk-through:</h2>
 
