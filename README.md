@@ -1,9 +1,9 @@
-<h1>AR House Floor/Wall Designing</h1>
+<h1>AR Interactive Car Garage</h1>
 
- ### [Video Demonstration](https://www.linkedin.com/posts/sadique-rahman-aa2951209_unity-unity3d-augmnetedreality-activity-7229143482202832898-dXBz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADT_3doBFsfXz5yrVPeGirVB95umWAn4Cr0)
+ ### [Video Demonstration](https://www.linkedin.com/posts/sadique-rahman-aa2951209_androidabrapp-vuforia-ar-activity-7281670848128675841-iZtL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADT_3doBFsfXz5yrVPeGirVB95umWAn4Cr0)
 
 <h2>Description</h2>
-The AR application developed using Unity and Vuforia enables real-time visualization and customization of wall and floor designs in homes. It features an intuitive user interface that allows users to browse a diverse library of designs, including colors, textures, and patterns. Utilizing Vuforia for accurate surface recognition, the app allows users to see how their chosen designs would look in their own spaces, with tools for adjusting scale and position. Additional functionalities include saving favorite designs and sharing them via social media. The development process involves setting up Unity and Vuforia, creating 3D models, implementing AR features, and optimizing for performance, with potential future enhancements such as e-commerce integration and user-generated content.
+The Interactive Virtual Car Garage is an augmented reality (AR) simulation designed for Android devices, created using the Unity engine and Vuforia SDK. This application allows users to explore and customize a range of vehicles in a virtual garage environment. With intuitive button controls, users can interact with the cars, triggering minor animations that enhance the immersive experience of vehicle maintenance and customization.
 <br/>
 
 
@@ -14,7 +14,7 @@ The AR application developed using Unity and Vuforia enables real-time visualiza
 
 <h2>Environments Used </h2>
 
-- <b>Unity</b> (2021.3.31f1)
+- <b>Unity</b> (2019.3.14f1)
 
 <h2>Program walk-through:</h2>
 
